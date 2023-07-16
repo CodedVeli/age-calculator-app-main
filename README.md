@@ -1,6 +1,7 @@
 # Frontend Mentor - Age calculator app
 
-![Design preview for the Age calculator app coding challenge](../design/desktop-preview.jpg)
+![Design preview for the Age calculator app coding challenge]
+![desktop-completed](https://github.com/CodedVeli/age-calculator-app-main/assets/119484375/e64fb916-34f0-4588-8347-5af18893c1ba)
 
 ## Welcome! 👋
 
